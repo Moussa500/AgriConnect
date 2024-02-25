@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593353731916",
+    "project_id": "agriconnect-8e92f",
+    "storage_bucket": "agriconnect-8e92f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593353731916:android:3c33d6834be2c06b4aa9e9",
+        "android_client_info": {
+          "package_name": "com.example.agriconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoZcZhhIJnu7rvwBCEhXEKdxiqTYPZHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
